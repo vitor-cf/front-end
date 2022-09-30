@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hooks-react-form",
+    "slug": "hooks-react-form",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hooks-react-form"
+}
